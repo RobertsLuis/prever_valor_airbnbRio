@@ -14,4 +14,6 @@ Tecnologias associadas:
     
     Scikit-learn -> Machine Learning
 
+    Brazilcep, geopy -> Modulos adicionais para conversão do CEP para latitude e longitude (que são os 2 dos valores que a IA necessita para prever o valor do imóvel)
+
 ![Em Branco 2 Painéis Retrato Quadrinhos](https://github.com/RobertsLuis/prever_valor_airbnbRio/assets/130838869/faad76ea-611e-4de3-85bb-4c996c6bd695)
